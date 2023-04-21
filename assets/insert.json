@@ -1,0 +1,13 @@
+{
+    "fName": "James",
+    "mName": "L",
+    "lName": "Bond",
+    "cNum": "1111222233334444",
+    "eDate": "0420-06-09",
+    "cvNum": "000",
+    "cType": "Visa",
+    "email": "Bond.JamesB@hotmail.com",
+    "gender": "male",
+    "subscribe": true,
+    "confirm": true
+}
